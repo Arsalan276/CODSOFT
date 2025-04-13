@@ -27,7 +27,7 @@ while True:
         comp='r'
     elif select_comp==2:
         comp='p'
-    elif select_comp==2:
+    elif select_comp==3:
         comp='s'
     # Now its user's turn
     user=input("Please select Rock(r), Paper(p) or Scissor(s)\n")
